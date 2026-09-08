@@ -38,12 +38,12 @@ A Bash script that automatically analyzes the log file and displays:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Soc-Log_Analysis.git
+   git clone https://github.com/0xM4d/SSH-Brute-Force-Detection-SOC-Lab
    ```
 
 2. **Go to the project directory:**
    ```bash
-   cd Soc-Log_Analysis
+   cd SSH-Brute-Force-Detection-SOC-Lab
    ```
 
 3. **Give execute permission:**
