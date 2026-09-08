@@ -38,17 +38,17 @@ A Bash script that automatically analyzes the log file and displays:
 ### 1. Attack Simulation (SSH Brute Force via Hydra)
 An SSH brute-force attack was launched against the target host using `hydra` to generate realistic authentication failure entries and successful breach attempts in the system security logs:
 
-![Hydra Attack Simulation](Screenshot_20260908_154732.jpg)
+![Hydra Attack Simulation](images/Screenshot_20260908_154732.jpg)
 
 ### 2. The Bash Analysis Script (`logs_analyzer.sh`)
 The script extracts critical metrics directly from `/var/log/secure` using regex and core Linux text utilities:
 
-![Bash Log Analyzer Script](Screenshot_20260908_152916.png)
+![Bash Log Analyzer Script](images/Screenshot_20260908_152916.png)
 
 ### 3. Execution & Automated Report Output
 Running the script parses the attack traffic, identifies the attacker's IP, counts attempts, and outputs a formatted security report:
 
-![Analysis Output](Screenshot_20260908_153007.png)
+![Analysis Output](images/Screenshot_20260908_153007.png)
 
 ---
 
