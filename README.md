@@ -74,7 +74,6 @@ Top Suspicious IP Addresses:
 * Bash Scripting
 * Incident Detection
 * Linux Command-Line Proficiency
-* Automation using Shell Scripts
 
 ## 🚀 Future Enhancements
 * Analyze larger log files.
