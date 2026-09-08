@@ -96,6 +96,4 @@ Top Suspicious IP Addresses:
 ## 🚀 Future Enhancements
 * Analyze larger log files.
 * Generate CSV and PDF reports.
-* Email alert notifications.
-* Splunk SIEM integration.
 * Real-time log monitoring.
